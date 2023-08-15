@@ -10,4 +10,6 @@ export class CounterComponent {
   public incrementCounter() {
     this.currentCount++;
   }
+
+  public myAss = "Sheeeeesh"
 }
